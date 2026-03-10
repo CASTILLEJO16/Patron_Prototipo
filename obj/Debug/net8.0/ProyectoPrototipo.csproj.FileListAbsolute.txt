@@ -1,0 +1,14 @@
+C:\Users\aleja\OneDrive\Documentos\Prototipo\bin\Debug\net8.0\ProyectoPrototipo.exe
+C:\Users\aleja\OneDrive\Documentos\Prototipo\bin\Debug\net8.0\ProyectoPrototipo.deps.json
+C:\Users\aleja\OneDrive\Documentos\Prototipo\bin\Debug\net8.0\ProyectoPrototipo.runtimeconfig.json
+C:\Users\aleja\OneDrive\Documentos\Prototipo\bin\Debug\net8.0\ProyectoPrototipo.dll
+C:\Users\aleja\OneDrive\Documentos\Prototipo\bin\Debug\net8.0\ProyectoPrototipo.pdb
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.dll
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\refint\ProyectoPrototipo.dll
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.pdb
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ProyectoPrototipo.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Documentos\Prototipo\obj\Debug\net8.0\ref\ProyectoPrototipo.dll
